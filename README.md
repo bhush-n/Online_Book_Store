@@ -1,6 +1,6 @@
 ## Online Book Store
 
-## Table of contents
+# Table of contents
 
 [Introduction](https://github.com/bhush-n/Online_Book_Store#introduction)
 

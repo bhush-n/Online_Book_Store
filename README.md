@@ -1,6 +1,8 @@
+## Online Book Store
 
 ## Table of contents
 
+[Introduction](https://github.com/bhush-n/Online_Book_Store#introduction)
 [API References](https://github.com/bhush-n/Online_Book_Store#api-reference)
 
 [Features](https://github.com/bhush-n/Online_Book_Store#features)
@@ -12,7 +14,7 @@
 [Screenshots](https://github.com/bhush-n/Online_Book_Store#screenshots)
 
 [Support](https://github.com/bhush-n/Online_Book_Store#support)
-# Online_Book_Store
+# Introduction
 
 This is the final year project I have
 developed using PHP, MySQL,
